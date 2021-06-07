@@ -1,7 +1,7 @@
 # We're Switiching our placements4u portal from conventional HTML/CSS/JS to React.js inorder to make it more engaging.
 ### Current portal can be accessed at -> [Placements4u](https://placements4u.github.io/Placement/index.html)
 ---
-## Techlogies :-
+## Technologies :-
 1. Frontend - React.js
 2. Backend - Node.js, Express.js
 3. Database - MongoDb
