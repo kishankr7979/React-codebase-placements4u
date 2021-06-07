@@ -1,0 +1,39 @@
+
+* {
+    box-sizing: border-box;
+  }
+.banner{
+    text-align: left;
+    margin-top: 9em;
+    margin-left: 4em;
+    color:#c3e7fd; 
+
+}
+
+@media screen and (max-width:600px){
+    .banner{
+        width: 100%;
+    }
+}
+.bn-img img{
+   height: 80%;
+   width:   80%;
+}
+.banner h1{
+    font-weight: bolder;
+    font-size: 350%;
+    text-shadow: 2px 2px 4px grey;
+    
+ 
+}
+.btn button{
+    background-color: #c3e7fd;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 20px;
+    border-color: grey;
+    color: black;
+    margin-top: 2em;
+    
+
+}

@@ -1,0 +1,11 @@
+.ft {
+    background-color: #c3e7fd;
+    color: black;
+    margin-top: 4.5rem;
+    
+}
+.ft a {
+    text-decoration: none;
+    color: rgb(255, 72, 0);
+    text-shadow: 2px 2px 4px white;
+}
