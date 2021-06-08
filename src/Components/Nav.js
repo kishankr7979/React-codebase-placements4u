@@ -47,10 +47,10 @@ const Nav = () => {
               </ul>
             </li>
             <li class="nav-item">
-              <Link class="nav-link"  to="/about" style={style3}>Latest Openings</Link>
+              <Link class="nav-link"  to="/latest-openings" style={style3}>Latest Openings</Link>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#" style={style3}>Login</a>
+              <a class="nav-link" href="https://placements4u-login.herokuapp.com/" style={style3} target="_blank">Login</a>
             </li>
     
           </ul>

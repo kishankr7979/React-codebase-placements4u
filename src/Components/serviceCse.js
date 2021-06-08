@@ -1,5 +1,5 @@
 import React from 'react'
-import { FullTimeProduct } from '../ComList/fulltimeCse';
+import { FullTimeService } from '../ComList/ServiceCse';
 import './Styles/intern.css';
 
 const serviceCse = () => {
@@ -13,7 +13,7 @@ const serviceCse = () => {
         <div>
             <ServiceBased />
             <div className="stock-container" style={st}>
-            {FullTimeProduct.map((data, key) => {
+            {FullTimeService.map((data, key) => {
                 return(
                     <div key={key} style={{marginBottom:"3px"}}>
                    <FullTime
@@ -46,8 +46,8 @@ const FullTime = ({id, Company, Careers, Offcampus}) => {
         
             <td>{id}</td>
           <td>{Company}</td>
-            <td><a href="https://www.google.com/careers" style={{color:"blue", textDecoration:"none"}}>{Careers}</a></td>
             <td>{Offcampus}</td>
+            <td><a href={Careers} style={{color:"blue", textDecoration:"none"}} target="_blank">Apply!</a></td>
 
         </tr>
         </table>

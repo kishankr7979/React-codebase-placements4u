@@ -2,6 +2,7 @@ import React from 'react'
 import { FullTimeProduct } from '../ComList/fulltimeCse';
 import './Styles/intern.css';
 import Services from './serviceCse';
+import Startups from './startupCse';
 
 const Fulltimecse = () => {
     const st = {
@@ -30,6 +31,8 @@ const Fulltimecse = () => {
             })};
         </div>
         <Services />
+        <Startups />
+
         </div>
     );
 }
@@ -57,8 +60,9 @@ const FullTime = ({id, Company, Careers, Offcampus}) => {
         
             <td>{id}</td>
           <td>{Company}</td>
-            <td><a href="https://www.google.com/careers" style={{color:"blue", textDecoration:"none"}}>{Careers}</a></td>
+            
             <td>{Offcampus}</td>
+            <td><a href={Careers} style={{color:"blue", textDecoration:"none"}} target="_blank">Apply!</a></td>
 
         </tr>
         </table>

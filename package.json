@@ -10,12 +10,9 @@
     "react": "^17.0.2",
     "react-animations": "^1.0.0",
     "react-dom": "^17.0.2",
-    "react-full-page": "^0.1.11",
-    "react-json-to-table": "^0.1.7",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-social-icons": "^5.4.1",
-    "social-media-icons-react": "^1.1.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
