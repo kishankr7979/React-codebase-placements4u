@@ -1,7 +1,8 @@
 import React from 'react'
-import { internData } from '../ComList/internList';
+import { StartupCse } from '../ComList/startupCse';
 import './Styles/intern.css';
-const intern = () => {
+
+const startupCse = () => {
     const st = {
         paddingLeft:"3em",
         paddingRight:"3em",
@@ -10,12 +11,12 @@ const intern = () => {
     }
     return (
         <div>
-        <HomePageHeader />
+            <Startups />
             <div className="stock-container" style={st}>
-            {internData.map((data, key) => {
+            {StartupCse.map((data, key) => {
                 return(
                     <div key={key} style={{marginBottom:"3px"}}>
-                   <Intern
+                   <Startup
                    id = {data.id}
                    Company={data.Company}
                    Careers={data.Careers}
@@ -26,17 +27,16 @@ const intern = () => {
             })};
         </div>
         </div>
-    );
-};
-
-const HomePageHeader = () => {
+    )
+}
+const Startups = () => {
     return (
         <header className="header">
-            <h2>CSE/IT/ECE</h2>
+            <h5 style={{textAlign:"left", marginLeft:"2em"}}>*Startups Companies</h5>
         </header>
     );
 };
-const Intern = ({id, Company, Careers, Offcampus}) => {
+const Startup = ({id, Company, Careers, Offcampus}) => {
     if(!Company) return <div />;
     return(
         
@@ -48,7 +48,7 @@ const Intern = ({id, Company, Careers, Offcampus}) => {
           <td>{Company}</td>
             
             <td>{Offcampus}</td>
-            <td><a href={Careers} style={{color:"blue", textDecoration:"none"}}>Apply!</a></td>
+            <td><a href={Careers} style={{color:"blue", textDecoration:"none"}} target="_blank">Apply!</a></td>
 
         </tr>
         </table>
@@ -57,4 +57,4 @@ const Intern = ({id, Company, Careers, Offcampus}) => {
 
 };
 
-export default intern
+export default startupCse;

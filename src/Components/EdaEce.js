@@ -1,7 +1,8 @@
 import React from 'react'
-import { internData } from '../ComList/internList';
+import { EdaEce } from '../ComList/edaece';
 import './Styles/intern.css';
-const intern = () => {
+
+const Edaece = () => {
     const st = {
         paddingLeft:"3em",
         paddingRight:"3em",
@@ -10,12 +11,12 @@ const intern = () => {
     }
     return (
         <div>
-        <HomePageHeader />
+            <EdaBased />
             <div className="stock-container" style={st}>
-            {internData.map((data, key) => {
+            {EdaEce.map((data, key) => {
                 return(
                     <div key={key} style={{marginBottom:"3px"}}>
-                   <Intern
+                   <FullTime
                    id = {data.id}
                    Company={data.Company}
                    Careers={data.Careers}
@@ -26,17 +27,16 @@ const intern = () => {
             })};
         </div>
         </div>
-    );
-};
-
-const HomePageHeader = () => {
+    )
+}
+const EdaBased = () => {
     return (
         <header className="header">
-            <h2>CSE/IT/ECE</h2>
+            <h5 style={{textAlign:"left", marginLeft:"2em"}}>*EDA Companies</h5>
         </header>
     );
 };
-const Intern = ({id, Company, Careers, Offcampus}) => {
+const FullTime = ({id, Company, Careers, Offcampus}) => {
     if(!Company) return <div />;
     return(
         
@@ -46,9 +46,8 @@ const Intern = ({id, Company, Careers, Offcampus}) => {
         
             <td>{id}</td>
           <td>{Company}</td>
-            
             <td>{Offcampus}</td>
-            <td><a href={Careers} style={{color:"blue", textDecoration:"none"}}>Apply!</a></td>
+            <td><a href={Careers} style={{color:"blue", textDecoration:"none"}} target="_blank">Apply!</a></td>
 
         </tr>
         </table>
@@ -57,4 +56,4 @@ const Intern = ({id, Company, Careers, Offcampus}) => {
 
 };
 
-export default intern
+export default Edaece;
