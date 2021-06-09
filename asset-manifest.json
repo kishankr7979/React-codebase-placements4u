@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/placements4u/static/css/main.452a710b.chunk.css",
+    "main.js": "/placements4u/static/js/main.fd1e4cd0.chunk.js",
+    "main.js.map": "/placements4u/static/js/main.fd1e4cd0.chunk.js.map",
+    "runtime-main.js": "/placements4u/static/js/runtime-main.60c984fb.js",
+    "runtime-main.js.map": "/placements4u/static/js/runtime-main.60c984fb.js.map",
+    "static/js/2.0b53ec0d.chunk.js": "/placements4u/static/js/2.0b53ec0d.chunk.js",
+    "static/js/2.0b53ec0d.chunk.js.map": "/placements4u/static/js/2.0b53ec0d.chunk.js.map",
+    "index.html": "/placements4u/index.html",
+    "static/css/main.452a710b.chunk.css.map": "/placements4u/static/css/main.452a710b.chunk.css.map",
+    "static/js/2.0b53ec0d.chunk.js.LICENSE.txt": "/placements4u/static/js/2.0b53ec0d.chunk.js.LICENSE.txt",
+    "static/media/banner.05920af7.png": "/placements4u/static/media/banner.05920af7.png",
+    "static/media/index.css": "/placements4u/static/media/bg.21630191.png",
+    "static/media/logo.63f3c18b.png": "/placements4u/static/media/logo.63f3c18b.png",
+    "static/media/my.521bedbe.jpeg": "/placements4u/static/media/my.521bedbe.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c984fb.js",
+    "static/js/2.0b53ec0d.chunk.js",
+    "static/css/main.452a710b.chunk.css",
+    "static/js/main.fd1e4cd0.chunk.js"
+  ]
+}
