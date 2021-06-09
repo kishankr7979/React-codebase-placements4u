@@ -1,12 +1,20 @@
 # We're Switiching our placements4u portal from conventional HTML/CSS/JS to React.js inorder to make it more engaging.
-### Current portal can be accessed at -> [Placements4u](https://placements4u.github.io/Placement/index.html)
+### Conventional HTML/CSS/JS portal can be accessed at -> [Placements4u](https://placements4u.github.io/Placement/index.html)
+### React App portal ( Beta Stage ) -> [Placements4u](https://placements4u.netlify.app/)
 ---
 ## Technologies :-
 1. Frontend - React.js
 2. Backend - Node.js, Express.js
 3. Database - MongoDb
 4. Deployment - Github, Heroku, Netlify
-5. Version control - Git &nbsp;
+5. CI Pipeline via Github
+6. Version control - Git &nbsp;
+---
+## To start the server in local device :- 
+1. After cloning, type command `npm start` in project directory.
+2. Make sure you're having the all required module, check the package.json file to know about the modules.
+
+---
 ## For contribution :-
 1. Fork this repository
 2. clone the forked repository into your local machine using command `git clone URL`
