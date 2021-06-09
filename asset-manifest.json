@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/kishankr7979/React-codebase-placements4u/static/css/main.56b1ccfe.chunk.css",
-    "main.js": "/kishankr7979/React-codebase-placements4u/static/js/main.fd1e4cd0.chunk.js",
-    "main.js.map": "/kishankr7979/React-codebase-placements4u/static/js/main.fd1e4cd0.chunk.js.map",
-    "runtime-main.js": "/kishankr7979/React-codebase-placements4u/static/js/runtime-main.e43f8395.js",
-    "runtime-main.js.map": "/kishankr7979/React-codebase-placements4u/static/js/runtime-main.e43f8395.js.map",
-    "static/js/2.0b53ec0d.chunk.js": "/kishankr7979/React-codebase-placements4u/static/js/2.0b53ec0d.chunk.js",
-    "static/js/2.0b53ec0d.chunk.js.map": "/kishankr7979/React-codebase-placements4u/static/js/2.0b53ec0d.chunk.js.map",
-    "index.html": "/kishankr7979/React-codebase-placements4u/index.html",
-    "static/css/main.56b1ccfe.chunk.css.map": "/kishankr7979/React-codebase-placements4u/static/css/main.56b1ccfe.chunk.css.map",
-    "static/js/2.0b53ec0d.chunk.js.LICENSE.txt": "/kishankr7979/React-codebase-placements4u/static/js/2.0b53ec0d.chunk.js.LICENSE.txt",
-    "static/media/banner.05920af7.png": "/kishankr7979/React-codebase-placements4u/static/media/banner.05920af7.png",
-    "static/media/index.css": "/kishankr7979/React-codebase-placements4u/static/media/bg.21630191.png",
-    "static/media/logo.63f3c18b.png": "/kishankr7979/React-codebase-placements4u/static/media/logo.63f3c18b.png",
-    "static/media/my.521bedbe.jpeg": "/kishankr7979/React-codebase-placements4u/static/media/my.521bedbe.jpeg"
+    "main.css": "/React-codebase-placements4u/static/css/main.bf6a44e8.chunk.css",
+    "main.js": "/React-codebase-placements4u/static/js/main.fd1e4cd0.chunk.js",
+    "main.js.map": "/React-codebase-placements4u/static/js/main.fd1e4cd0.chunk.js.map",
+    "runtime-main.js": "/React-codebase-placements4u/static/js/runtime-main.69c9166b.js",
+    "runtime-main.js.map": "/React-codebase-placements4u/static/js/runtime-main.69c9166b.js.map",
+    "static/js/2.0b53ec0d.chunk.js": "/React-codebase-placements4u/static/js/2.0b53ec0d.chunk.js",
+    "static/js/2.0b53ec0d.chunk.js.map": "/React-codebase-placements4u/static/js/2.0b53ec0d.chunk.js.map",
+    "index.html": "/React-codebase-placements4u/index.html",
+    "static/css/main.bf6a44e8.chunk.css.map": "/React-codebase-placements4u/static/css/main.bf6a44e8.chunk.css.map",
+    "static/js/2.0b53ec0d.chunk.js.LICENSE.txt": "/React-codebase-placements4u/static/js/2.0b53ec0d.chunk.js.LICENSE.txt",
+    "static/media/banner.05920af7.png": "/React-codebase-placements4u/static/media/banner.05920af7.png",
+    "static/media/index.css": "/React-codebase-placements4u/static/media/bg.21630191.png",
+    "static/media/logo.63f3c18b.png": "/React-codebase-placements4u/static/media/logo.63f3c18b.png",
+    "static/media/my.521bedbe.jpeg": "/React-codebase-placements4u/static/media/my.521bedbe.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e43f8395.js",
+    "static/js/runtime-main.69c9166b.js",
     "static/js/2.0b53ec0d.chunk.js",
-    "static/css/main.56b1ccfe.chunk.css",
+    "static/css/main.bf6a44e8.chunk.css",
     "static/js/main.fd1e4cd0.chunk.js"
   ]
 }
