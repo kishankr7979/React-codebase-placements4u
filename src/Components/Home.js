@@ -19,7 +19,7 @@ const Home = () => {
             <div className="btn">
             
             <NavLink to="/explore" style={{textDecoration:"none", color:"black"}}> <div className="wrap">
-            <button class="button">Submit</button>
+            <button class="button">Explore</button>
             </div></NavLink>
             
         </div>
