@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link, NavLink} from 'react-router-dom'; 
 import logo2 from '../Images/logo.png';
+const al = () => alert("Please login to access all openings :)")
 const Nav = () => {
     const style2 = {
         axHeight: "150px",
