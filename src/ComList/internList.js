@@ -3,13 +3,13 @@ export const internData = [
      "id" : "1",
      "Company" : "Google",
      "Careers" : "https://www.google.com/careers",
-     "Offcampus" : "Offcampus Hiring"
+     "Offcampus" :"Offcampus Hiring"
      },
      {
      "id" : "2",
      "Company" : "Facebook",
      "Careers" : "https://www.facebook.com/careers",
-     "Offcampus" : "Offcampus Hiring"
+     "Offcampus" :"Offcampus Hiring"
      },
      {
      "id" : "3",
