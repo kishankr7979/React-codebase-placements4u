@@ -138,6 +138,13 @@ export const StartupEce = [
         "Company" : "Bobble AI",
         "Careers" : "https://www.bobble.ai/en/careers",
         "Offcampus" : "Offcampus Hiring"
+    },
+    {
+        "id":"24",
+        "Company":"Simpplr",
+        "Careers":"https://www.simpplr.com/about/careers/",
+        "Offcampus":"Offcampus Hiring"
+
     }
      
  ];
