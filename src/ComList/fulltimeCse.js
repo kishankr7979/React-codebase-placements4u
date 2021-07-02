@@ -152,5 +152,12 @@ export const FullTimeProduct = [
         "Careers":"https://www.yugabyte.com/careers/",
         "Offcampus":"Offcampus Hiring"
     },
+    {
+        "id":"26",
+        "Company":"Simpplr",
+        "Careers":"https://www.simpplr.com/about/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    }
  
  ];

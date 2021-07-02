@@ -307,6 +307,13 @@ export const internData = [
          "Careers":"https://app.eightfold.ai/careers/search",
          "Offcampus":"Oncampus Hiring"
  
-     }
+     },
+     {
+        "id":"52",
+        "Company":"Simpplr",
+        "Careers":"https://www.simpplr.com/about/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    }
  
  ];
