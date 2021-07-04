@@ -4,9 +4,7 @@ import './Styles/intern.css';
 
 const Edaece = () => {
     const st = {
-        paddingLeft:"3em",
-        paddingRight:"3em",
-        marginTop:"3em"
+     
 
     }
     return (
