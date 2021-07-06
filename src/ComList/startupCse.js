@@ -145,6 +145,13 @@ export const StartupCse = [
         "Careers":"https://www.simpplr.com/about/careers/",
         "Offcampus":"Offcampus Hiring"
 
+    },
+    {
+        "id":"25",
+        "Company":"BukuWarung",
+        "Careers":"https://careers.smartrecruiters.com/BukuWarung",
+        "Offcampus":"Offcampus Hiring"
+
     }
      
  ];

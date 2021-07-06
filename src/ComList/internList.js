@@ -314,6 +314,13 @@ export const internData = [
         "Careers":"https://www.simpplr.com/about/careers/",
         "Offcampus":"Offcampus Hiring"
 
+    },
+    {
+        "id":"53",
+        "Company":"BukuWarung",
+        "Careers":"https://careers.smartrecruiters.com/BukuWarung",
+        "Offcampus":"Offcampus Hiring"
+
     }
  
  ];
