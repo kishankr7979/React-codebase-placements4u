@@ -2,6 +2,7 @@ import React from 'react'
 import logo from '../Images/banner.png';
 import './Styles/About.css';
 import pic from '../Images/my.jpeg';
+import Uday from '../Images/uday.jpeg';
 import { SocialIcon } from 'react-social-icons';
 import { slideInRight } from 'react-animations';
 import Radium, { StyleRoot } from 'radium';
@@ -55,24 +56,42 @@ const About = () => {
         </div>
         <br />
         <br />
-        <div className="dev">
-        <h3>The Developer</h3>
+        <h3>The Developer's</h3>
+      <div className="dev">
+       
+        <div className="a1">
         <div className="img" >
-            <img src={pic} className="image"
-
-style={styles.slideInRight} />
+            <img src={pic} className="image" />
             <div className="overlay">
                 <div className="text"><b>Kishan K.</b><br />
         Founder cum Engineer at Placements4u</div>
             </div>
+            
         </div>
+       
         
-        <div>
+        <div className="social">
         <SocialIcon url="https://www.linkedin.com/in/kishan-k-12052a168/" network="linkedin" />
         <SocialIcon url="https://github.com/kishankr7979" network="github" style={{marginLeft:"4px"}}/>
         <SocialIcon url="https://twitter.com/Krkishan11" network="twitter" style={{marginLeft:"4px"}}/>
+      </div>
+      </div>
+      <div className="a1">
+        <div className="img" >
+            <img src={Uday} className="image" style={{height:"350px", width:"250px"}}/>
+            <div className="overlay">
+                <div className="text"><b>Uday K.Singh</b><br />
+        Engineer at Placements4u</div>
+            </div>
         </div>
+      <div>
+        <SocialIcon url="https://www.linkedin.com/in/uday-singh-090762195/" network="linkedin" />
+        <SocialIcon url="https://github.com/uday4312" network="github" style={{marginLeft:"4px"}}/>
+        <SocialIcon url="#" network="twitter" style={{marginLeft:"4px"}}/>
+      </div>
         </div>
+
+      </div>
 </div>
 
     );
