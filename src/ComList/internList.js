@@ -321,6 +321,13 @@ export const internData = [
         "Careers":"https://careers.smartrecruiters.com/BukuWarung",
         "Offcampus":"Offcampus Hiring"
 
+    },
+    {
+        "id":"53",
+        "Company":"Josh Technology Group",
+        "Careers":"https://www.joshtechnologygroup.com/careers/",
+        "Offcampus":"Offcampus Hiring"
+
     }
  
  ];
