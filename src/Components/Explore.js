@@ -1,14 +1,21 @@
 import React from 'react'
 import { Link, NavLink} from 'react-router-dom'; 
 import './Styles/Explore.css'
+import step from '../Images/stp.png'
 const Explore = () => {
+    const styleforImage = {
+        height: '10%',
+        width: '10%',
+        backgroundColor: 'transparent',
+        opacity: '20px'
+    }
     return (
         <div className="c1">
               <main class="page">
             <section class="clean-block features">
             <div class="container">
                 <div class="block-heading">
-                    <h2 class="text-info">Explore</h2>
+                    <h1>Explore</h1>
                     <p>Know how to use Placements4u Platform</p>
                 </div>
                 <div class="row justify-content-center">
