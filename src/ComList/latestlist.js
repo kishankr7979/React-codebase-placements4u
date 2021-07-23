@@ -6,19 +6,19 @@ export const LatestOpenings = [
      },
      {
      "id" : "2",
-     "Company" : "Dassault System | B.Tech CSE/IT | Freshers",
-     "Careers" : "https://careers.3ds.com/jobs"
+     "Company" : "Microchip | Freshers",
+     "Careers" : "https://careers.microchip.com/job/3356/engineer_software"
 
      },
      {
      "id" : "3",
-     "Company":"SAP Labs | QA | Freshers",
-     "Careers" : "https://jobs.sap.com/job/Bangalore-Quality-Associate-560066/672810601/"
+     "Company":"Orange Business Services | Freshers",
+     "Careers" : "https://orange.jobs/jobs/similar.do?joid=98554&paramuid=C9E45068-F189-403D-AF96-7F3D78270F9B&wmode=all&lang=EN"
      },
      {
         "id" : "4",
-        "Company":"Engineering Intern at Hackerearth | Backend",
-        "Careers" : "https://hackerearthjobs.recruiterbox.com/jobs/fk0u6y9/"
+        "Company":"Altran | Fresher ",
+        "Careers" : "https://career10.successfactors.com/career?career_ns=job_listing&company=C0002723615P&navBarLevel=JOB_SEARCH&career_job_req_id=76136"
         },
         {
             "id" : "5",
@@ -27,8 +27,8 @@ export const LatestOpenings = [
             },
             {
                 "id" : "6",
-                "Company":"SHL Associate SW Engg | Freshers",
-                "Careers" : "hhttps://shl-hr.secure.force.com/recruit/fRecruit__ApplyJob?vacancyNo=VN415"
+                "Company":"Medtronic | Freshers",
+                "Careers" : "https://jobs.medtronic.com/jobs/software-engineer-i-101840"
                 },
 
      
