@@ -145,6 +145,20 @@ export const StartupEce = [
         "Careers":"https://www.simpplr.com/about/careers/",
         "Offcampus":"Offcampus Hiring"
 
+    },
+    {
+        "id":"25",
+        "Company":"SquadStack",
+        "Careers":"https://www.squadstack.com/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"26",
+        "Company":"Everstage",
+        "Careers":"https://www.everstage.com/careers#jobs-section",
+        "Offcampus":"Offcampus Hiring"
+
     }
      
  ];
