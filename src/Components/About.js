@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../Images/banner.png';
 import './Styles/About.css';
 import pic from '../Images/my.jpeg';
-import Uday from '../Images/uday.jpeg';
+import Uday from '../Images/uday.jpg';
 import { SocialIcon } from 'react-social-icons';
 import { slideInRight } from 'react-animations';
 import Radium, { StyleRoot } from 'radium';
@@ -78,9 +78,11 @@ const About = () => {
       </div>
       <div className="a1">
         <div className="img" >
-            <img src={Uday} className="image" style={{height:"350px", width:"250px"}}/>
+            <img src={Uday} className="image" style={{height:"354px", width:"204px"}}/>
+    
             <div className="overlay">
-                <div className="text"><b>Uday Kumar Singh</b><br />
+                <div className="text"><b>Uday K.Singh</b><br />
+
         Engineer at Placements4u</div>
             </div>
         </div>
