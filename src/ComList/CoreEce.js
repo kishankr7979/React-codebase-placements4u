@@ -133,6 +133,12 @@ export const FullTimeCore = [
         "Company":"Cisco",
         "Careers":"https://www.cisco.com/c/en/us/about/careers.html",
         "Offcampus":"Oncampus Hiring"
+    },
+    {
+        "id":"23",
+        "Company":"Uno Minda",
+        "Careers":"https://www.unominda.com/career",
+        "Offcampus":"Oncampus Hiring"
     }
   
  ];
