@@ -3,13 +3,13 @@ export const internData = [
      "id" : "1",
      "Company" : "Google",
      "Careers" : "https://www.google.com/careers",
-     "Offcampus" : "Offcampus Hiring"
+     "Offcampus" :"Offcampus Hiring"
      },
      {
      "id" : "2",
      "Company" : "Facebook",
      "Careers" : "https://www.facebook.com/careers",
-     "Offcampus" : "Offcampus Hiring"
+     "Offcampus" :"Offcampus Hiring"
      },
      {
      "id" : "3",
@@ -307,6 +307,27 @@ export const internData = [
          "Careers":"https://app.eightfold.ai/careers/search",
          "Offcampus":"Oncampus Hiring"
  
-     }
+     },
+     {
+        "id":"52",
+        "Company":"Simpplr",
+        "Careers":"https://www.simpplr.com/about/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"53",
+        "Company":"BukuWarung",
+        "Careers":"https://careers.smartrecruiters.com/BukuWarung",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"53",
+        "Company":"Josh Technology Group",
+        "Careers":"https://www.joshtechnologygroup.com/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    }
  
  ];

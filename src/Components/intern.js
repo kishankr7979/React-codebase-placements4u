@@ -42,13 +42,13 @@ const Intern = ({id, Company, Careers, Offcampus}) => {
         
         <table class="responstable">
     
-        <tr>
+         <tr>
         
-            <td>{id}</td>
-          <td>{Company}</td>
+            <td style={{textAlign:"left"}}>{id}</td>
+          <td style={{textAlign:"left"}}>{Company}</td>
             
-            <td>{Offcampus}</td>
-            <td><a href={Careers} style={{color:"blue", textDecoration:"none"}}>Apply!</a></td>
+            <td style={{textAlign:"left"}}>{Offcampus}</td>
+            <td><a href={Careers} style={{color:"blue", textDecoration:"none", textAlign:"right"}}>Apply!</a></td>
 
         </tr>
         </table>

@@ -1,3 +1,6 @@
+table{
+  table-layout: fixed;
+}
 .responstable {
     margin: 1em 0;
     width: 100%;
@@ -48,7 +51,7 @@
   }
   .responstable td:first-child {
     display: table-cell;
-   text-align: left;
+   text-align: center;
     /*border-right: 1px solid #D9E4E6;*/
   }
   @media (min-width: 480px) {
@@ -59,14 +62,13 @@
   }
   .responstable th, .responstable td {
     text-align: left;
-    margin: .5em 1em;
     text-align: left;
   }
   @media (min-width: 480px) {
     .responstable th, .responstable td {
       display: table-cell;
       padding: 1em;
-      text-align: left;
+      text-align: center;
     }
   }
   

@@ -138,6 +138,41 @@ export const StartupCse = [
         "Company" : "Bobble AI",
         "Careers" : "https://www.bobble.ai/en/careers",
         "Offcampus" : "Offcampus Hiring"
+    },
+    {
+        "id":"24",
+        "Company":"Simpplr",
+        "Careers":"https://www.simpplr.com/about/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"25",
+        "Company":"BukuWarung",
+        "Careers":"https://careers.smartrecruiters.com/BukuWarung",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"26",
+        "Company":"Josh Technology Group",
+        "Careers":"https://www.joshtechnologygroup.com/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"27",
+        "Company":"SquadStack",
+        "Careers":"https://www.squadstack.com/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"28",
+        "Company":"Everstage",
+        "Careers":"https://www.everstage.com/careers#jobs-section",
+        "Offcampus":"Offcampus Hiring"
+
     }
      
  ];

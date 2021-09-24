@@ -82,6 +82,7 @@ const About = () => {
     
             <div className="overlay">
                 <div className="text"><b>Uday K.Singh</b><br />
+
         Engineer at Placements4u</div>
             </div>
         </div>

@@ -9,11 +9,10 @@ const Footer = () => {
          <footer className="page-footer font-medium">
 
 
-        <div className="footer-copyright text-center py-3" style={{backgroundColor:"#c3e7fd", marginTop:"1em"}}>© Designed and Developed with &#9825; by 
-        <a href="http://www.kishankr.me/portfolio"> Kishan </a>
+        <div className="footer-copyright text-center py-3" style={{backgroundColor:"#c3e7fd", marginTop:"1em"}}>© Designed and Developed with &#9829; | <Link to="/" >Placements4u</Link>
         </div>
 
-
+       
     </footer>
     </div>
     )

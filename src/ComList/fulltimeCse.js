@@ -148,9 +148,16 @@ export const FullTimeProduct = [
     },
     {
         "id":"25",
-        "Company":"YugaByte DB",
+        "Company":"Informatica",
         "Careers":"https://www.yugabyte.com/careers/",
         "Offcampus":"Offcampus Hiring"
     },
+    {
+        "id":"26",
+        "Company":"Simpplr",
+        "Careers":"https://informatica.gr8people.com/",
+        "Offcampus":"Offcampus Hiring"
+
+    }
  
  ];

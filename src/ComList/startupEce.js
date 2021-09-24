@@ -138,6 +138,27 @@ export const StartupEce = [
         "Company" : "Bobble AI",
         "Careers" : "https://www.bobble.ai/en/careers",
         "Offcampus" : "Offcampus Hiring"
+    },
+    {
+        "id":"24",
+        "Company":"Simpplr",
+        "Careers":"https://www.simpplr.com/about/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"25",
+        "Company":"SquadStack",
+        "Careers":"https://www.squadstack.com/careers/",
+        "Offcampus":"Offcampus Hiring"
+
+    },
+    {
+        "id":"26",
+        "Company":"Everstage",
+        "Careers":"https://www.everstage.com/careers#jobs-section",
+        "Offcampus":"Offcampus Hiring"
+
     }
      
  ];

@@ -1,6 +1,8 @@
 import React from 'react'
 import { LatestOpenings } from '../ComList/latestlist';
+
 const Latest = () => {
+    
         const st = {
             paddingLeft:"3em",
             paddingRight:"3em",
@@ -25,7 +27,9 @@ const Latest = () => {
             </div>
             <Button1 />
             </div>
+
         );
+        
     
 }
 const Latestop = () => {
