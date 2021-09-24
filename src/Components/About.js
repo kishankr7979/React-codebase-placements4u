@@ -78,7 +78,8 @@ const About = () => {
       </div>
       <div className="a1">
         <div className="img" >
-            <img src={Uday} className="image" style={{height:"350px", width:"250px"}}/>
+            <img src={Uday} className="image" style={{height:"354px", width:"204px"}}/>
+    
             <div className="overlay">
                 <div className="text"><b>Uday K.Singh</b><br />
         Engineer at Placements4u</div>
