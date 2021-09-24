@@ -63,7 +63,7 @@ export const FullTimeCore = [
      },
      {
          "id" : "11",
-         "Company" : "Airtel",
+         "Company" : "Bharti Airtel",
          "Careers" : "https://www.airtel.in/careers/",
          "Offcampus" : "Offcampus Hiring"
      },
